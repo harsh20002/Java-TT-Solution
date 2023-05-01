@@ -1,5 +1,5 @@
 
-### This repository consists of solutions related to Array.
+### This directory consists of solutions related to Array.
 
 
 ## Author
